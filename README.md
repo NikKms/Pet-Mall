@@ -76,7 +76,7 @@ In this case, the application should start and work, but the logs will not be av
 All available endpoints are described in Swagger:
 
 ```bash
-localhost:PORT_FROM_ENV/api/docs
+localhost:5000/api/docs
 
 
 ```
