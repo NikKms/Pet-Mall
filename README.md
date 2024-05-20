@@ -1,4 +1,4 @@
-# Pet-Mol
+# Pet-Mall
 
 Pet-Mol is a backend application with a CRM system where you can create products with designations by specifying the manufacturer, purpose, and tags. You can also moderate them, work on orders, add managers, as well as a client-side with all the functions of any internet store. The main feature is the dynamic calculation of the product price, tied to the Solana cryptocurrency.
 
